@@ -42,7 +42,7 @@ javac Segitiga.java
 javac Persegi.java
 javac Utama.java
 ```
-setelah itu run program Utama
+setelah itu run file Utama.java
 ```
 java Utama
 ```
